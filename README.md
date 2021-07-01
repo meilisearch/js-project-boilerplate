@@ -34,6 +34,7 @@ To start your project, clone this repository and remove git from it. After which
 - [📄 License](#-license)
 - [🖇 bors](#-bors)
 - [🎳 Editor Config](#-editor-config)
+- [⚠️ Project Settings](#-project-settings)
 
 ## ✨ Linter
 
@@ -79,3 +80,16 @@ A testing and merging tool used to merge PR's. Please refer to [this documentati
 ### 🎳 Editor Config
 
 An `.editorconfig` file that follows some style rules used accros all JavaScript projects.
+
+### ⚠️ Project Settings
+
+
+What this boilerplate does not provide are the repositories settings that should be manually configurated:
+<br>
+
+⚠️ Entering the settings should be done after consultation with the person in charge ⚠️
+
+- Project access management.
+- Enable dependabot security alerts, updates and graph.
+- Main branch protection.
+- Add project in bors.
