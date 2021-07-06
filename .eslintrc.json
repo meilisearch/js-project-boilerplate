@@ -20,7 +20,8 @@
       {
         "quoteProps": "consistent",
         "semi": false,
-        "arrowParens": "avoid"
+        "arrowParens": "avoid",
+        "singleQuote": true
       }
     ]
   }
