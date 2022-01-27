@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/meilisearch/MeiliSearch/raw/main/assets/logo.svg" alt="MeiliSearch" width="200" height="200" />
+  <img src="https://raw.githubusercontent.com/meilisearch/integration-guides/main/assets/logos/meilisearch_js.svg" alt="Meilisearch" width="200" height="200" />
 </p>
 
 <h1 align="center">JavaScript project boilerplate</h1>
 
 <h4 align="center">
-  <a href="https://github.com/meilisearch/MeiliSearch">MeiliSearch</a> |
+  <a href="https://github.com/meilisearch/meilisearch">Meilisearch</a> |
   <a href="https://docs.meilisearch.com">Documentation</a> |
   <a href="https://slack.meilisearch.com">Slack</a> |
   <a href="https://www.meilisearch.com">Website</a> |
@@ -71,7 +71,7 @@ The `.gitignore` ignores the most frequent directories and file naming that shou
 
 ## 📄 License
 
-The lincensing file containg the license MeiliSearch used accross our projects. The years should be updated accordingly to the current year.
+The licensing file contains the license Meilisearch used across our projects. The years should be updated accordingly to the current year.
 
 ### 🖇 Bors
 
