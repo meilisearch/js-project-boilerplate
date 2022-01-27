@@ -71,7 +71,7 @@ The `.gitignore` ignores the most frequent directories and file naming that shou
 
 ## 📄 License
 
-The lincensing file containg the license Meilisearch used accross our projects. The years should be updated accordingly to the current year.
+The licensing file contains the license Meilisearch used across our projects. The years should be updated accordingly to the current year.
 
 ### 🖇 Bors
 
