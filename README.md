@@ -56,6 +56,16 @@ To fix and format your code, you can use the following command:
 yarn lint:fix
 ```
 
+### Different environments
+
+The `eslintrc.js` files contains rules for the following environments:
+- typescript
+- javascript
+- React
+- Vue
+
+Please copy paste the rules that are relevant to you.
+
 ## 🔧 Github Actions
 
 In the `.github` the following GitHub actions are present:
