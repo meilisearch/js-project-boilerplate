@@ -134,8 +134,7 @@ module.exports = {
         'jest/globals': true,
         jasmine: true,
       },
-      globals: {
-      },
+      globals: {},
       extends: [
         'standard',
         'plugin:@typescript-eslint/recommended',
