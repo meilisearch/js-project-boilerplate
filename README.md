@@ -2,7 +2,21 @@
   <img src="https://raw.githubusercontent.com/meilisearch/integration-guides/main/assets/logos/meilisearch_js.svg" alt="Meilisearch" width="200" height="200" />
 </p>
 
-<h1 align="center">JavaScript project boilerplate</h1>
+<h1 align="center">DEPRECATED - JavaScript project boilerplate</h1>
+
+---
+
+🚨 DEPRECATION WARNING 🚨
+
+*Dear Community,*
+
+*We'd like to share some updates regarding the future maintenance of this repository:*
+
+*Our team is small, and our availability will be reduced in the upcoming times. As such, we decided to deprecate this repository.*
+
+*Seeking immediate support? Please join us on [our Discord channel](https://discord.meilisearch.com).*
+
+---
 
 <h4 align="center">
   <a href="https://github.com/meilisearch/meilisearch">Meilisearch</a> |
